@@ -1,0 +1,18 @@
+.basebox{
+
+    box-shadow: rgba(35, 238, 211, 0.25) 0px 30px 90px -12px inset, rgba(44, 145, 207, 0.87) 0px 18px 36px -18px inset;
+    align-content: center;
+border-radius: 2%;
+    margin-top: 10%;
+    margin-bottom: 30%;
+    margin-right: 30%;
+    margin-left: 30%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #fff;
+    padding-bottom: 10%;
+    
+
+
+
+
+}
